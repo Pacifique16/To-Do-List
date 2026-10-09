@@ -54,3 +54,6 @@ src/
 
 - [React](https://react.dev/)
 - [Vite](https://vitejs.dev/)
+
+###
+Build with love for educational purposes 
