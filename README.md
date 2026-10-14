@@ -56,4 +56,4 @@ src/
 - [Vite](https://vitejs.dev/)
 
 ###
-Build with love for educational purposes 
+Build with love for educational purposes ❤️
